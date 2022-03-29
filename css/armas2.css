@@ -1,0 +1,17 @@
+body {background-color: rgb(30, 30, 30);}
+#div {background-color: rgb(10, 10, 10);}
+#titulo1 {font-size: 60px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: lightblue; font-weight: bold; text-decoration: underline; padding: 40px;}
+#texto1 {font-size: 23px; color: white; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+#texto2 {font-size: 30px; color: #33A2FF; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: bold;}
+#texto3 {font-size: 17px; color: white; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+#texto4 {font-size: 17px; color: lightblue; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+#rojo {font-size: 17px; color: red; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: bold;}
+#azul {font-size: 17px; color: blue; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: bold;}
+#azul2 {font-size: 17px; color: lightblue; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: bold;}
+#amarillo {font-size: 17px; color: yellow; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: bold;}
+#morado {font-size: 17px; color: purple; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: bold;}
+#naranja {font-size: 17px; color: orange; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: bold;}
+table {text-align: center}
+
+a:link {text-decoration: unset; color: lightblue;}
+a:visited {text-decoration: unset; color: lightblue;}

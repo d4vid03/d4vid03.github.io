@@ -1,0 +1,53 @@
+body {background-color: rgb(30, 30, 30);}
+#div {background-color: rgb(10, 10, 10);}
+#img {width: 700px; margin-left: 325px;}
+#titulo1 {font-size: 60px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: lightblue; font-weight: bold; text-decoration: underline; padding: 40px;}
+#titulo2 {font-size: 35px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: lightblue; font-weight: bold; text-decoration: underline; padding: 40px; text-align: center;}
+#texto1 {font-size: 20px; color: white; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+#texto2 {font-size: 30px; color: #33A2FF; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: bold;}
+#flecha {width: 80px; height: 80px; position: absolute; right: 10px;}
+#tmapa {text-align: center; margin-left: 100px;}
+#mapa {width: 120px;}
+#capa {width: 30px}
+
+#mapa:hover {width: 800px;}
+a:link {text-decoration: unset; color: lightblue;}
+a:visited {text-decoration: unset; color: lightblue;}
+
+
+
+
+
+
+.slider {
+    width: 95%;
+    margin: auto;
+    overflow: hidden;
+}
+.slider ul {
+    display: flex;
+    padding: 0;
+    width: 400%;
+    animation: cambio 20s infinite alternate;
+}
+.slider li {
+    width: 100%;
+    list-style: none;
+}
+.slider img {
+    width: 100%;
+}
+
+@keyframes cambio {
+    0% { margin-left: 0;}
+    20% { margin-left: 0;}
+
+    25% { margin-left: -100%;}
+    45% { margin-left: -100%;}
+
+    50% { margin-left: -200%;}
+    70% { margin-left: -200%;}
+
+    75% { margin-left: -300%;}
+    100% { margin-left: -300%;}
+}

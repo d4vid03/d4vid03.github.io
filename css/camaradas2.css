@@ -1,0 +1,22 @@
+body {background-color: rgb(30, 30, 30);}
+li {list-style: none}
+#div {background-color: rgb(10, 10, 10);}
+#titulo1 {font-size: 60px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: lightblue; font-weight: bold; text-decoration: underline; padding: 40px;}
+#titulo2 {font-size: 35px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: lightblue; font-weight: bold; padding: 40px; text-align: center;}
+#texto1 {font-size: 20px; color: white; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+#texto2 {font-size: 20px; color: rgb(32, 188, 250); font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: bold;}
+#texto3 {font-size: 17px; color: white; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+#verde {font-size: 35px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: lightgreen; font-weight: bold; padding: 40px; font-weight: bold; text-align: center;}
+#amarillo {font-size: 35px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: yellow; font-weight: bold; padding: 40px; font-weight: bold; text-align: center;}
+#naranja {font-size: 35px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: orange; font-weight: bold; padding: 40px; font-weight: bold; text-align: center;}
+#azul {font-size: 35px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: blue; font-weight: bold; padding: 40px; font-weight: bold; text-align: center;}
+#gris {font-size: 35px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: grey; font-weight: bold; padding: 40px; font-weight: bold; text-align: center;}
+#rojo {font-size: 35px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: red; font-weight: bold; padding: 40px; font-weight: bold; text-align: center;}
+
+#flecha {width: 80px; height: 80px; position: absolute; right: 10px;}
+#img {width: 300px; height: 300px; border-radius: 2px; border-color: white; border-radius: 20%; border-style: solid;}
+#img2 {width: 500px; border-color: rgb(18, 200, 255); border-radius: 0%; border-style: ridge; margin-left: 200px;}
+
+a:link {text-decoration: unset; color: lightblue;}
+a:visited {text-decoration: unset; color: lightblue;}

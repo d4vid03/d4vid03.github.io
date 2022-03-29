@@ -1,0 +1,9 @@
+body {background-color: rgb(30, 30, 30);}
+#div {background-color: rgb(10, 10, 10);}
+#tabla {border-width: 3px; border-style: solid; border-color: lightblue; border-collapse: collapse;}
+#titulo1 {font-size: 60px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: lightblue; font-weight: bold; text-decoration: underline; padding: 40px;}
+#texto2 {font-size: 30px; color: #33A2FF; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: bold; background-color: rgb(6, 4, 32); padding: 15px;}
+#texto3 {font-size: 17px; color: white; font-family: Verdana, Geneva, Tahoma, sans-serif; text-align: center;}
+
+a:link {text-decoration: unset; color: lightblue;}
+a:visited {text-decoration: unset; color: lightblue;}
